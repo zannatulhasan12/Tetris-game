@@ -2,11 +2,6 @@
 
 A classic Tetris game built in **Java** using **Object-Oriented Programming** principles and the **Swing** GUI toolkit.
 
-## Screenshots
-
-![Gameplay](Images/GamePlay.png)
-
-![Game Over](Images/GameOver.png)
 
 ## Overview
 
@@ -72,3 +67,10 @@ java tetrisgame.Tetrisgame
 - Add soft drop / hard drop functionality
 - Increase falling speed as the score increases (level system)
 - Add sound effects and a pause menu
+
+
+## Screenshots
+
+![Gameplay](Images/GamePlay.png)
+
+![Game Over](Images/GameOver.png)
