@@ -4,9 +4,9 @@ A classic Tetris game built in **Java** using **Object-Oriented Programming** pr
 
 ## Screenshots
 
-![Gameplay](images/GamePlay.png)
+![Gameplay](Images/GamePlay.png)
 
-![Game Over](images/GameOver.png)
+![Game Over](Images/GameOver.png)
 
 ## Overview
 
